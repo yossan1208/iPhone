@@ -12,5 +12,4 @@ public class Iphone {
 		iphone.photo();
 		iphone.internet();
 	}
-
 }
