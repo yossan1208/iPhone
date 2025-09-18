@@ -10,7 +10,7 @@ public class SmartPhone extends Mp3Player{
 		System.out.println("次へ（ハイレゾ機能）");
 	}
 	public void back() {
-		System.out.println("戻る（ハイレゾ機能");
+		System.out.println("戻る（ハイレゾ機能)");
 	}
 	public void call() {
 		System.out.println("電話");
